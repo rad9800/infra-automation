@@ -1,0 +1,6 @@
+version: '3.8'
+services:
+  app:
+    environment:
+      - AWS_ACCESS_KEY_ID=AKIASVWYCWUU324DORP2
+      - AWS_SECRET_ACCESS_KEY=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
