@@ -1,0 +1,5 @@
+{
+  "aws_key": "AKIAY7JFSFF4SCKDNWX4",
+  "aws_secret": "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",
+  "db": "postgres://localhost/app"
+}
